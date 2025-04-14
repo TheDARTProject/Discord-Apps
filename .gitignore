@@ -1,3 +1,9 @@
 Monitor-App/.env
 Statistics-App/.env
 /.idea
+Collector-App/.env
+Collector-App/cogs/__pycache__/__init__.cpython-39.pyc
+Collector-App/cogs/__pycache__/monitor.cpython-39.pyc
+Collector-App/utils/__pycache__/__init__.cpython-39.pyc
+Collector-App/utils/__pycache__/csv_handler.cpython-39.pyc
+Collector-App/utils/__pycache__/logging.cpython-39.pyc
