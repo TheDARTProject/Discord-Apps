@@ -35,6 +35,6 @@ Full documentation available at [here](https://thedartproject.github.io/pages/mo
 
 ## [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
 
-## [Join my Discord server](https://discord.gg/2nHHHBWNDw)
+## [Join my Discord server](https://discord.gg/3nUBKvuBgC)
 
 </div>
